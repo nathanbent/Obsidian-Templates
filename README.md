@@ -1,0 +1,2 @@
+# Obsidian-Templates
+Obsidian Templates
